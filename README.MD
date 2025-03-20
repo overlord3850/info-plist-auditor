@@ -14,9 +14,10 @@ I wanted to explore iOS security automation, so I vibe-coded this tool to audit 
 git clone https://github.com/overlord3850/info-plist-auditor.git
 cd info-plist-auditor
 python info_plist_audit.py /path/to/Info.plist
-
+---
 
 **JSON Output (For Reports & Automation)
 Print JSON in Console:
-
+```sh
 python info_plist_auditor.py /path/to/Info.plist --json
+---
