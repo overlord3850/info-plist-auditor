@@ -13,3 +13,7 @@ cd info-plist-auditor
 python info_plist_audit.py /path/to/Info.plist
 
 
+**JSON Output (For Reports & Automation)
+Print JSON in Console:
+
+python info_plist_auditor.py /path/to/Info.plist --json
