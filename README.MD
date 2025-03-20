@@ -10,3 +10,5 @@ A "vibe coded" python based Info.plist Auditor script to audit Info.plist files 
 git clone https://github.com/overlord3850/info-plist-auditor.git
 cd info-plist-auditor
 python info_plist_audit.py /path/to/Info.plist
+
+![Alt text](Output.png)
