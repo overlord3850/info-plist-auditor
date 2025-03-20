@@ -1,4 +1,7 @@
 A "vibe coded" python based Info.plist Auditor script to audit Info.plist files for security misconfigurations.
+## 🛠 Why I Built This
+I wanted to explore iOS security automation, so I vibe-coded this tool to audit `Info.plist` files for misconfigurations. 
+*Vibe coded but security-approved. 🚀*
 
 **Features
 - Detects ATS bypass, privacy violations, debug mode, and other security issues.
